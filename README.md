@@ -1,7 +1,7 @@
 DESCRIPTION
 ====
 
-Installs nginx from package OR source code and sets up configuration handling similar to Debian's Apache2 scripts.
+Installs nginx from source or packages; simplifies configuration of reverse proxies in nginx.conf; modified from original opscode recipe
 
 REQUIREMENTS
 ====
